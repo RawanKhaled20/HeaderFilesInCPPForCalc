@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1695643513 source:c:\users\p.c\desktop\calc-lib\main.cpp
+	<iostream>
+	"myheader.h"
+
+1695643497 source:c:\users\p.c\desktop\calc-lib\myhead.cpp
+	<iostream>
+
+1695642513 c:\users\p.c\desktop\calc-lib\myheader.h
+
